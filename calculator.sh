@@ -14,3 +14,9 @@ echo "Sum is: $sum"
 diff=$(( $1 - $2 ))
 
 echo "Difference is: $diff"
+
+
+#Multiplication
+prod=$(( $1 * $2 ))
+
+echo "Product is: $prod"
