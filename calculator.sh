@@ -20,3 +20,10 @@ echo "Difference is: $diff"
 prod=$(( $1 * $2 ))
 
 echo "Product is: $prod"
+
+
+#Division
+div=$(( $1 / $2 ))
+
+echo "Quotient is: $div"
+
